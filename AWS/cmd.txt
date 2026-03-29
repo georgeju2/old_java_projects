@@ -1,0 +1,1 @@
+ssh -i EC2Tutorial.pem ec2-user@18.227.24.93 
