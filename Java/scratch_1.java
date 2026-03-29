@@ -1,0 +1,9 @@
+
+public class scratch_1 {
+	public static void main(String[] argv) {
+		String s = "jdafshiquwrehqkhfkalsuydhfqew";
+		long sz = s.chars().distinct().count();
+		System.out.println("size = "+ sz);
+	}
+
+}
